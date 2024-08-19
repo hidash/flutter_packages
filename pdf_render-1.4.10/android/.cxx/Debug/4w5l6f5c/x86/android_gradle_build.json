@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hidash/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/Debug/4w5l6f5c/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hidash/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/Debug/4w5l6f5c/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bbhelper::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "bbhelper",
+      "output": "/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/Debug/4w5l6f5c/obj/x86/libbbhelper.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/hidash/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/hidash/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,1 @@
+/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/armeabi-v7a

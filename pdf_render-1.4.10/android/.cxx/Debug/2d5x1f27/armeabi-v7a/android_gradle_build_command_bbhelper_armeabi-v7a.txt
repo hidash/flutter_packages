@@ -1,0 +1,7 @@
+Executable : /Users/hidash/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/Debug/2d5x1f27/armeabi-v7a
+bbhelper
+jvmArgs : 
+

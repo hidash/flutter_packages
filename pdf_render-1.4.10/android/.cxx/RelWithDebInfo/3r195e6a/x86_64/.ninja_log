@@ -1,0 +1,8 @@
+# ninja log v5
+0	226	1722592243520685686	CMakeFiles/bbhelper.dir/c++/directBufferAndroid.cpp.o	e7b5288d66c94bd3
+227	340	1722592243635128613	/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86_64/libbbhelper.so	842fd06ec6889b23
+2	111	1722663945596387612	/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86_64/libbbhelper.so	842fd06ec6889b23
+2	128	1722672146247999166	/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86_64/libbbhelper.so	842fd06ec6889b23
+2	109	1722680843136565878	/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86_64/libbbhelper.so	842fd06ec6889b23
+2	117	1722833830572655608	/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86_64/libbbhelper.so	842fd06ec6889b23
+3	142	1722867313266889725	/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86_64/libbbhelper.so	842fd06ec6889b23

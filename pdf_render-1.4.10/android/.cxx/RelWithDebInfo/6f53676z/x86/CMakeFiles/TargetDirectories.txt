@@ -1,0 +1,3 @@
+/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/RelWithDebInfo/6f53676z/x86/CMakeFiles/rebuild_cache.dir
+/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/RelWithDebInfo/6f53676z/x86/CMakeFiles/edit_cache.dir
+/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/RelWithDebInfo/6f53676z/x86/CMakeFiles/bbhelper.dir

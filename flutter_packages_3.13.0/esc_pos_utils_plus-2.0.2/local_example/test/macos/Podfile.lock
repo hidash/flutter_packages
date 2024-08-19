@@ -1,0 +1,29 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - webcontent_converter (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - webcontent_converter (from `Flutter/ephemeral/.symlinks/plugins/webcontent_converter/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  webcontent_converter:
+    :path: Flutter/ephemeral/.symlinks/plugins/webcontent_converter/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  webcontent_converter: 1b7fb84b614fa488431e5192c3c19f53ef5b8bc8
+
+PODFILE CHECKSUM: 8d40c19d3cbdb380d870685c3a564c989f1efa52
+
+COCOAPODS: 1.11.3

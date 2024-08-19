@@ -1,0 +1,19 @@
+name: vph_common_widgets
+description: Common widgets. This package is not intended for direct use.
+version: 0.0.2
+homepage: https://github.com/ngocvuphan/fluttter_common_widgets
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:

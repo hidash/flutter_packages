@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hidash/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/RelWithDebInfo/3r195e6a/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hidash/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hidash/.pub-cache/hosted/pub.dev/pdf_render-1.4.10/android/.cxx/RelWithDebInfo/3r195e6a/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bbhelper::@6890427a1f51a3e7e1df": {
+      "artifactName": "bbhelper",
+      "abi": "x86",
+      "output": "/Users/hidash/Documents/iTujarFlutter/itujar_business_flutter/build/pdf_render/intermediates/cxx/RelWithDebInfo/3r195e6a/obj/x86/libbbhelper.so",
+      "runtimeFiles": []
+    }
+  }
+}
